@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on a project where I have to implement the various container types of the C++ standard.
 template library.
 - 💻 Programming languages: ``` C, C++, Python, Matlab ```
+- 🛠 Other skills: ```Git, Linux, Makefile ```
 - 📫 How to reach me in Linkedin: www.linkedin.com/in/zaloa-canales-galarza
 
 ---
